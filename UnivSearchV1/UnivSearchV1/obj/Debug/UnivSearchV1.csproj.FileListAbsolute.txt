@@ -1,0 +1,13 @@
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\bin\Debug\UnivSearchV1.exe.config
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\bin\Debug\UnivSearchV1.exe
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\bin\Debug\UnivSearchV1.pdb
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\bin\Debug\Gma.UserActivityMonitor.dll
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\bin\Debug\Gma.UserActivityMonitor.pdb
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\obj\Debug\App.g.cs
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\obj\Debug\UnivSearchV1_MarkupCompile.cache
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\obj\Debug\UnivSearchV1.Properties.Resources.resources
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\obj\Debug\UnivSearchV1.csproj.GenerateResource.Cache
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\obj\Debug\UnivSearchV1.exe
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\obj\Debug\UnivSearchV1.pdb
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\obj\Debug\UnivSearchV1.csprojResolveAssemblyReference.cache
+c:\users\sambhav.patni\documents\visual studio 2012\Projects\UnivSearchV1\UnivSearchV1\obj\Debug\UnivSearchV1.g.resources
